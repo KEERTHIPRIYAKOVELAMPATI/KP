@@ -1,0 +1,13 @@
+steps:
+  integrationArtifactDeploy:
+    cpiApiServiceKeyCredentialsId: fbbc010ctrial
+    integrationFlowId: P200786-flow4
+  integrationArtifactGetMplStatus:
+    cpiApiServiceKeyCredentialsId: fbbc010ctrial
+    integrationFlowId: P200786-flow4
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: fbbc010ctrial
+    integrationFlowId: P200786-flow4
+    integrationFlowName: P200786-flow4
+    packageId: CICD
+    filePath: P200786-flow4.zip
